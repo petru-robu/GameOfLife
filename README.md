@@ -20,6 +20,3 @@ The universe of the Game of Life is an infinite, two-dimensional orthogonal grid
 </p>
 
 ![image](https://github.com/user-attachments/assets/ce2c9d19-fe22-4902-85b6-fba5766db867)
-
-<h2>Skills</h2>
-<p>While doing this project I have imporved on my programming skills, javascript and web technologies.</p>
