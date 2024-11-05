@@ -16,7 +16,7 @@ The universe of the Game of Life is an infinite, two-dimensional orthogonal grid
 <p>
   I have implemented the game in javascript using the p5 grpahics library. The game runs in a 2D grid in which I've implemented 
   a wrap-around logic. Some patterns of gliders, oscillators and other life forms can be loaded by clicking the respective buttons.
-  Here you can see a screenshot of the implementation. I also invite you to check out the simulator on my github page, https://petru-robu.github.io, where you cand interact with it.
+  Here you can see a screenshot of the implementation. I also invite you to check out the simulator on my github page, https://petru-robu.github.io, where you can interact with it.
 </p>
 
 ![image](https://github.com/user-attachments/assets/ce2c9d19-fe22-4902-85b6-fba5766db867)
